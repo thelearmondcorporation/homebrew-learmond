@@ -3,7 +3,7 @@ class Learmond < Formula
   homepage "https://github.com/thelearmondcorporation/learmond"
   url "https://github.com/thelearmondcorporation/learmond/releases/download/v0.0.1/learmond"
   version "0.0.1"
-  sha256 '76aec8d7ac22fe60d859831f2310845b93d8a4d6f689d7ebe2ed5df7b132f7b9'
+  sha256 '951c4ee29f3de041b95cda563909c951ae61dbd7b18cc3b85d6a9aa179d3280e'
   license "MIT"
 
   def install
